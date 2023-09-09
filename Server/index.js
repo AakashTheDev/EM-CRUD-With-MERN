@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: false }));
 // mongoose.connect("mongodb://localhost:27017/CRUD");
 mongoose
   .connect(
-    "mongodb+srv://aakashwahmi:TestCRUD@cluster0.x3ou1a3.mongodb.net/CRUD"
+    "mongodb+srv://@cluster0.x3ou1a3.mongodb.net/CRUD"
   )
   .then(() => {
     console.log("MongoDB is Connected...");
