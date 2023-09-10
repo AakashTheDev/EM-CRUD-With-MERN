@@ -1,2 +1,2 @@
 # EM-CRUD-With-MERN
- It is aEmployee Maintanence CRUD Application Using MERN Stack.
+ It is a Employee Maintanence CRUD Application Using MERN Stack.
